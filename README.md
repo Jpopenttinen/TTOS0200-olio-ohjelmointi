@@ -53,9 +53,9 @@ Arviointi perustuu pisteisiin osasuorituksista. Lopullinen arvosana määräytyy
 * [Slack](https://jamk-it.slack.com) ja opintojakson kanava [#ttos0200-olio](https://jamk-it.slack.com/messages/ttos0200-olio/)
 
 ## Aikataulu
-Opintojakson tunnit lukujärjestyksen mukaisesti, huomaa että niitä on kaksi kertaa viikossa:
-Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
-
+Opintojakson tunnit lukujärjestyksen mukaisesti, huomaa että niitä on kaksi kertaa viikossa:<br>
+Ryhmä TTV17S3: keskiviikko 8:00-11:15 ja torstai  8:00-11:15<br>
+Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
 <table>
 <thead>
   <tr>
@@ -94,7 +94,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   <td>ma 15.1 14:15-17:30</td>
   <td>Johdanto olio-ohjelmointiin. Peruskäsitteet: olio ja luokka</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/olioluokka.html">olio ja luokka</a><br>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs">struct</a>, <a href="https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct">struct vs object</a> (lue ja selvitä struct vs object eroavaisuus)
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs">struct</a>, <a href="https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct">struct vs object</a>
   </td>
   </tr>
   <tr>
@@ -103,9 +103,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   <td>to 18.1 8:00-11:15</td>
   <td>to 18.1 16:00-18:45</td>
   <td>Peruskäsitteet: kapselointi</td>
-  <td><a href="http://ptm.fi/courses/CSharp/content/olio/static.html">staattiset metodit</a><br>
-        <a href="http://ptm.fi/courses/CSharp/content/olio/kastaus.html">tyyppimuunnokset eli kastaaminen</a>
-  </td>
+  <td><a href="http://ptm.fi/courses/CSharp/content/olio/kapselointi.html">kapselointi</a></td>
   </tr>
   <tr>
   <td>vk 4</td>
@@ -113,9 +111,9 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   <td>ke 24.1 8:00-11:15</td>
   <td>ma 22.1 14:15-17:30</td>
   <td>Peruskäsitteet: staattiset luokat ja metodit<br>
-         Tyyppimuunnokset eli kastaaminen
+         tyyppimuunnokset (kastaaminen)
   </td>
-  <td><a href="http://ptm.fi/courses/CSharp/content/olio/static.html">staattiset metodit</a></td>
+  <td><a href="http://ptm.fi/courses/CSharp/content/olio/static.html">staattiset metodit</a>, <a href="http://ptm.fi/courses/CSharp/content/olio/kastaus.html">tyyppimuunnokset</a></td>
   </tr>
   <tr>
   <td>vk 4</td>
@@ -186,23 +184,25 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   </tr>
   <tr>
   <td>vk 7</td>
-  <td>Koe 1</td>
+  <td>K1</td>
   <td>pe 16.2 12:30-13:30</td>
   <td>pe 16.2 12:30-13:30</td>
   <td>Teoriakoe</td>
-  <td>luokka D436</td>
-  </tr>
-  <tr>
-  <td>vk 8</td>
-  <td>Koe 2</td>
-  <td>ke 21.2 klo 8:00-11:15</td>
-  <td>ma 19.2 14:15-17:30</td>
-  <td>Teoriakokeen palautus ja kertaus</td>
+  <td>&nbsp;</td>
   <td>&nbsp;</td>
   </tr>
   <tr>
   <td>vk 8</td>
-  <td>Koe 3</td>
+  <td>K2</td>
+  <td>ke 21.2 8:00-11:15</td>
+  <td>ma 19.2 14:15-17:30</td>
+  <td>Teoriakokeen palautus ja kertaus</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  </tr>
+  <tr>
+  <td>vk 8</td>
+  <td>K3</td>
   <td>to 22.2 8:00-11:15</td>
   <td>to 22.2 16:00-19:15</td>
   <td>Ohjelmointikoe</td>
@@ -217,9 +217,9 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   </tr>
   <tr>
   <td>vk 10</td>
-  <td>Koe 4</td>
-  <td>pe 9.3 klo 12:00-15:15</td>
-  <td>pe 9.3 klo 12:00-15:15</td>
+  <td>K4</td>
+  <td>pe 9.3 12:00-15:15</td>
+  <td>pe 9.3 12:00-15:15</td>
   <td>Ohjelmointikokeen uusinta</td>
   <td>luokka D436</td>
   </tr>
