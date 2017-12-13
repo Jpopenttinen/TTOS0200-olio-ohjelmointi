@@ -88,12 +88,14 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/olioluokka.html">olio ja luokka</a><br/>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs">struct</a>, <a href="https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct">struct vs object</a>
   </td>
+  <td>tulossa...</td>
   </tr>
   <tr>
   <td>vk 3</td>
   <td>L04</td>
   <td>Peruskäsitteet: kapselointi</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/kapselointi.html">kapselointi</a></td>
+  <td>tulossa...</td>
   </tr>
   <tr>
   <td>vk 4</td>
@@ -102,6 +104,7 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
          tyyppimuunnokset (kastaaminen)
   </td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/static.html">staattiset metodit</a>, <a href="http://ptm.fi/courses/CSharp/content/olio/kastaus.html">tyyppimuunnokset</a></td>
+  <td>tulossa...</td>
   </tr>
   <tr>
   <td>vk 4</td>
@@ -188,8 +191,8 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <td>vk 10</td>
   <td>K4</td>
   <td>Ohjelmointikokeen uusinta</td>
-  <td>pe 9.3 12:00-15:15</td>
   <td>&nbsp;</td>
+  <td>pe 9.3 12:00-15:15</td>
   </tr>
 </tbody>
 </table>
