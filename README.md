@@ -56,143 +56,143 @@ Arviointi perustuu pisteisiin osasuorituksista. Lopullinen arvosana määräytyy
 Opintojakson tunnit lukujärjestyksen mukaisesti, huomaa että niitä on kaksi kertaa viikossa:
 Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
 
-        <table class="table table-hover">
-        <thead>
-            <tr class="w3-blue">
-                <th>Viikko</th>
-                <th>Labra/kerta</th>
-				<th>TTV17S3 / pvm klo</th>
-                <th>Sisältö</th>
-                <th>Huomiot</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>vk 2</td>
-                <td>Labra 01</td>
+<table>
+ <thead>
+     <tr>
+  <th>Viikko</th>
+  <th>Labra/kerta</th>
+ <th>TTV17S3 / pvm klo</th>
+  <th>Sisältö</th>
+  <th>Huomiot</th>
+     </tr>
+ </thead>
+ <tbody>
+     <tr>
+  <td>vk 2</td>
+  <td>Labra 01</td>
 				<td>ke 10.1 klo 8:00-11:15</td>
-                <td>Opintojakson aloitus, C# perusteet, ohjelmoinnin kertaus</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 2</td>
-                <td>Labra 02</td>
-                <td>to 11.1 klo 8:00-11:15</td>
-                <td>Git-versiohallinta, C# perusteet jatkuu, struct, array, 
+  <td>Opintojakson aloitus, C# perusteet, ohjelmoinnin kertaus</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 2</td>
+  <td>Labra 02</td>
+  <td>to 11.1 klo 8:00-11:15</td>
+  <td>Git-versiohallinta, C# perusteet jatkuu, struct, array, 
 				enums</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 3</td>
-                <td>Labra 03</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 3</td>
+  <td>Labra 03</td>
 				<td>ke 17.1 klo 8:00-11:15</td>
-                <td>Johdanto olio-ohjelmointiin. Peruskäsitteet: olio ja luokka</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 3</td>
-                <td>Labra 04</td>
-                <td>to 18.1 klo 8:00-11:15</td>
-                <td>Peruskäsitteet: kapselointi</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 4</td>
-                <td>Labra 05</td>
-                <td>ke 24.1 klo 8:00-11:15</td>
-                <td>Peruskäsitteet: staattiset luokat ja metodit</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 4</td>
-                <td>Labra 06</td>
-                <td>to 25.1 klo 8:00-11:15</td>
-                <td>Peruskäsitteet: perintä, polymorfismi</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 5</td>
-                <td>Labra 07</td>
-                <td>ke 31.1 klo 8:00-11:15</td>
-                <td>Peruskäsitteet: abstraktiivisuus, koostaminen</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 5</td>
-                <td>Labra 08</td>
-                <td>to 1.2 klo 8:00-11:15</td>
-                <td>Peruskäsitteet: rajapinta</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 6</td>
-                <td>Labra 09</td>
-                <td>ke 7.2 klo 8:00-11:15</td>
-                <td>Johdanto tietorakenteisiin: kokoelmaluokat</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 6</td>
-                <td>Labra 10</td>
-                <td>to 8.2 klo 8:00-11:15</td>
-                <td>Poikkeusten käsittely ja tiedostojen käsittely</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 7</td>
-                <td>Labra 11</td>
-                <td>ke 14.2 klo 8:00-11:15</td>
-                <td>Delegaatit</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>vk 7</td>
-                <td>Labra 12</td>
+  <td>Johdanto olio-ohjelmointiin. Peruskäsitteet: olio ja luokka</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 3</td>
+  <td>Labra 04</td>
+  <td>to 18.1 klo 8:00-11:15</td>
+  <td>Peruskäsitteet: kapselointi</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 4</td>
+  <td>Labra 05</td>
+  <td>ke 24.1 klo 8:00-11:15</td>
+  <td>Peruskäsitteet: staattiset luokat ja metodit</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 4</td>
+  <td>Labra 06</td>
+  <td>to 25.1 klo 8:00-11:15</td>
+  <td>Peruskäsitteet: perintä, polymorfismi</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 5</td>
+  <td>Labra 07</td>
+  <td>ke 31.1 klo 8:00-11:15</td>
+  <td>Peruskäsitteet: abstraktiivisuus, koostaminen</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 5</td>
+  <td>Labra 08</td>
+  <td>to 1.2 klo 8:00-11:15</td>
+  <td>Peruskäsitteet: rajapinta</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 6</td>
+  <td>Labra 09</td>
+  <td>ke 7.2 klo 8:00-11:15</td>
+  <td>Johdanto tietorakenteisiin: kokoelmaluokat</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 6</td>
+  <td>Labra 10</td>
+  <td>to 8.2 klo 8:00-11:15</td>
+  <td>Poikkeusten käsittely ja tiedostojen käsittely</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 7</td>
+  <td>Labra 11</td>
+  <td>ke 14.2 klo 8:00-11:15</td>
+  <td>Delegaatit</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr>
+  <td>vk 7</td>
+  <td>Labra 12</td>
 				<td>to 15.2 klo 8:00-11:15</td>
-                <td>Yksikkötestaus ja kertaustehtäviä</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr class="w3-light-blue">
-                <td>vk 7</td>
-                <td>Koe 1</td>
-                <td>pe 16.2 klo 12:30-13:30</td>
-                <td>Teoriakoe</td>
-                <td>luokka D436</td>
+  <td>Yksikkötestaus ja kertaustehtäviä</td>
+  <td>&nbsp;</td>
+     </tr>
+     <tr class="w3-light-blue">
+  <td>vk 7</td>
+  <td>Koe 1</td>
+  <td>pe 16.2 klo 12:30-13:30</td>
+  <td>Teoriakoe</td>
+  <td>luokka D436</td>
 			</tr>
-            <tr class="w3-light-blue">
-                <td>vk 8</td>
-                <td>Koe 2</td>
-                <td>ke 21.2 klo 8:00-11:15</td>
-                <td>Teoriakokeen palautus ja kertaus</td>
-                <td>&nbsp;</td>
+     <tr class="w3-light-blue">
+  <td>vk 8</td>
+  <td>Koe 2</td>
+  <td>ke 21.2 klo 8:00-11:15</td>
+  <td>Teoriakokeen palautus ja kertaus</td>
+  <td>&nbsp;</td>
 			</tr>
-            <tr class="w3-light-blue">
-                <td>vk 8</td>
-                <td>Koe 3</td>
-                <td>to 22.2 klo 8:00-11:15</td>
-                <td>Ohjelmointikoe</td>
-                <td>&nbsp;</td>
+     <tr class="w3-light-blue">
+  <td>vk 8</td>
+  <td>Koe 3</td>
+  <td>to 22.2 klo 8:00-11:15</td>
+  <td>Ohjelmointikoe</td>
+  <td>&nbsp;</td>
 			</tr>
 <!-- Vapaajaksoviikko  -->
 			
-            <tr class="w3-lime">
-                <td>vk 9</td>
-                <td>&nbsp;</td>
+     <tr class="w3-lime">
+  <td>vk 9</td>
+  <td>&nbsp;</td>
 				<td>--</td>
-                <td>Itsenäinen opiskelu</td>
+  <td>Itsenäinen opiskelu</td>
 				<td>Itseopiskeluviikko</td>
-            </tr>
+     </tr>
 
-            <tr class="w3-light-blue">
-                <td>vk 10</td>
+     <tr class="w3-light-blue">
+  <td>vk 10</td>
 				<td>Koe 4</td>
 				<td>pe 9.3 klo 12:00-15:15</td>
-                <td>Ohjelmointikokeen uusinta</td>
-                <td>luokka D436</td>
-            </tr>
+  <td>Ohjelmointikokeen uusinta</td>
+  <td>luokka D436</td>
+     </tr>
 
-        </tbody>
-    </table>
+ </tbody>
+</table>
 
 ## Lisätietoa
 Opintojakson virallinen kuvaus: <a href="https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0200&knro=&noclose=%20&lan=f" target="_blank">Olio-ohjelmointi</a>
