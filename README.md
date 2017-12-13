@@ -61,8 +61,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <th>Vk#</th>
   <th>Lab#</th>
-  <th>TTV17S3-Pvm-klo</th>
-  <th>TTV17S4-Pvm-klo</th>
   <th>Sisältö</th>
   <th>Materiaali</th>
   <th>Tehtävät</th>
@@ -72,8 +70,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 2</td>
   <td>L01</td>
-  <td>ke 10.1 8:00-11:15</td>
-  <td>ma 8.1 14:15-17:30</td>
   <td>Opintojakson aloitus, C# perusteet, ohjelmoinnin kertaus</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/johdanto/johdanto.html">Johdanto C#-ohjelmointiin</a></td>
   <td><a href="http://ptm.fi/courses/CSharp/content/johdanto/tehtavatA.html">Tehtävät</a></td>
@@ -81,8 +77,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 2</td>
   <td>L02</td>
-  <td>to 11.1 8:00-11:15</td>
-  <td>to 11.1 16:00-18:45</td>
   <td>Git-versiohallinta, C# perusteet jatkuu, struct, array, enums</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/github/github.html">Visual Studio ja GitHub</a></td>
   <td><a href="http://ptm.fi/courses/CSharp/content/johdanto/tehtavatB.html">Tehtävät</a></td>
@@ -90,8 +84,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 3</td>
   <td>L03</td>
-  <td>ke 17.1 8:00-11:15</td>
-  <td>ma 15.1 14:15-17:30</td>
   <td>Johdanto olio-ohjelmointiin. Peruskäsitteet: olio ja luokka</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/olioluokka.html">olio ja luokka</a><br/>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs">struct</a>, <a href="https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct">struct vs object</a>
@@ -100,16 +92,12 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 3</td>
   <td>L04</td>
-  <td>to 18.1 8:00-11:15</td>
-  <td>to 18.1 16:00-18:45</td>
   <td>Peruskäsitteet: kapselointi</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/kapselointi.html">kapselointi</a></td>
   </tr>
   <tr>
   <td>vk 4</td>
   <td>L05</td>
-  <td>ke 24.1 8:00-11:15</td>
-  <td>ma 22.1 14:15-17:30</td>
   <td>Peruskäsitteet: staattiset luokat ja metodit<br/>
          tyyppimuunnokset (kastaaminen)
   </td>
@@ -118,8 +106,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 4</td>
   <td>L06</td>
-  <td>to 25.1  8:00-11:15</td>
-  <td>to 25.1 16:00-18:45</td>
   <td>Peruskäsitteet: perintä, polymorfismi</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/perinta.html">perintä</a><br/> 
          <a href="http://ptm.fi/courses/CSharp/content/olio/polymorfismi.html">monimuotoisuus</a></td>
@@ -128,8 +114,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 5</td>
   <td>L07</td>
-  <td>ke 31.1 8:00-11:15</td>
-  <td>ma 29.1 14:15-17:30</td>
   <td>Peruskäsitteet: abstraktiivisuus, koostaminen</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/abstraktit.html">abstraktio</a><br/> 
          <a href="http://ptm.fi/courses/CSharp/content/olio/koostaminen.html">koostaminen</a>     
@@ -139,8 +123,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 5</td>
   <td>L08</td>
-  <td>to 1.2 8:00-11:15</td>
-  <td>to 1.2 16:00-18:45</td>
   <td>Peruskäsitteet: rajapinta</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/rajapinta.html">rajapinta</a><br/></td>
   <td>&nbsp;</td>
@@ -148,8 +130,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 6</td>
   <td>L09</td>
-  <td>ke 7.2 8:00-11:15</td>
-  <td>ma 5.2 14:15-17:30</td>
   <td>Johdanto tietorakenteisiin: kokoelmaluokat</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/tietorakenne/kokoelmaluokat.html">kokoelmaluokat</a></td>
   <td>&nbsp;</td>
@@ -157,8 +137,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 6</td>
   <td>L10</td>
-  <td>to 8.2 8:00-11:15</td>
-  <td>to 8.2 16:00-18:45</td>
   <td>Poikkeusten käsittely ja tiedostojen käsittely</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/poikkeukset/poikkeukset.html">poikkeusten käsittely</a><br/> 
          <a href="http://ptm.fi/courses/CSharp/content/poikkeukset/tiedostot.html">tiedostojen käsittely</a></td>
@@ -167,8 +145,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 7</td>
   <td>L11</td>
-  <td>ke 14.2 8:00-11:15</td>
-  <td>ma 12.2 14:15-17:30</td>
   <td>Delegaatit</td>
   <td>Tulossa...</td>
   <td>&nbsp;</td>
@@ -176,8 +152,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 7</td>
   <td>L12</td>
-  <td>to 15.2 8:00-11:15</td>
-  <td>to 15.2 16:00-18:45</td>
   <td>Yksikkötestaus ja kertaustehtäviä</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/testaus/testaus.html">yksikkötestaus</a></td>
   <td>&nbsp;</td>
@@ -185,17 +159,13 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 7</td>
   <td>K1</td>
-  <td>pe 16.2 12:30-13:30</td>
-  <td>pe 16.2 12:30-13:30</td>
   <td>Teoriakoe</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td>Materiaali ei sallittu</td>
+  <td>pe 16.2 12:30-13:30</td>
   </tr>
   <tr>
   <td>vk 8</td>
   <td>K2</td>
-  <td>ke 21.2 8:00-11:15</td>
-  <td>ma 19.2 14:15-17:30</td>
   <td>Teoriakokeen palautus ja kertaus</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
@@ -203,25 +173,23 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <tr>
   <td>vk 8</td>
   <td>K3</td>
-  <td>to 22.2 8:00-11:15</td>
-  <td>to 22.2 16:00-19:15</td>
   <td>Ohjelmointikoe</td>
+  <td>Materiaalin käyttö sallittu</td>
   <td>&nbsp;</td>
   </tr>
   <tr>
   <td>vk 9</td>
   <td>&nbsp;</td>
   <td>--</td>
-  <td>Itsenäinen opiskelu</td>
-  <td>Itseopiskeluviikko</td>
+  <td>Itsenäinen opiskelu, itseopiskeluviikko</td>
+  <td>&nbsp;</td>
   </tr>
   <tr>
   <td>vk 10</td>
   <td>K4</td>
-  <td>pe 9.3 12:00-15:15</td>
-  <td>pe 9.3 12:00-15:15</td>
   <td>Ohjelmointikokeen uusinta</td>
-  <td>luokka D436</td>
+  <td>pe 9.3 12:00-15:15</td>
+  <td>&nbsp;</td>
   </tr>
 </tbody>
 </table>
