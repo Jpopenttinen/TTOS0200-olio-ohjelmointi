@@ -61,7 +61,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
      <tr>
   <th>Viikko</th>
   <th>Labra/kerta</th>
- <th>TTV17S3 / pvm klo</th>
+ <th>ryhmä TTV17S3 / pvm klo</th>
   <th>Sisältö</th>
   <th>Huomiot</th>
      </tr>
@@ -70,7 +70,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
      <tr>
   <td>vk 2</td>
   <td>Labra 01</td>
-				<td>ke 10.1 klo 8:00-11:15</td>
+  <td>ke 10.1 klo 8:00-11:15</td>
   <td>Opintojakson aloitus, C# perusteet, ohjelmoinnin kertaus</td>
   <td>&nbsp;</td>
      </tr>
@@ -152,21 +152,21 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   <td>Yksikkötestaus ja kertaustehtäviä</td>
   <td>&nbsp;</td>
      </tr>
-     <tr class="w3-light-blue">
+     <tr>
   <td>vk 7</td>
   <td>Koe 1</td>
   <td>pe 16.2 klo 12:30-13:30</td>
   <td>Teoriakoe</td>
   <td>luokka D436</td>
 			</tr>
-     <tr class="w3-light-blue">
+     <tr>
   <td>vk 8</td>
   <td>Koe 2</td>
   <td>ke 21.2 klo 8:00-11:15</td>
   <td>Teoriakokeen palautus ja kertaus</td>
   <td>&nbsp;</td>
 			</tr>
-     <tr class="w3-light-blue">
+     <tr>
   <td>vk 8</td>
   <td>Koe 3</td>
   <td>to 22.2 klo 8:00-11:15</td>
@@ -175,7 +175,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
 			</tr>
 <!-- Vapaajaksoviikko  -->
 			
-     <tr class="w3-lime">
+     <tr>
   <td>vk 9</td>
   <td>&nbsp;</td>
 				<td>--</td>
@@ -183,7 +183,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
 				<td>Itseopiskeluviikko</td>
      </tr>
 
-     <tr class="w3-light-blue">
+     <tr>
   <td>vk 10</td>
 				<td>Koe 4</td>
 				<td>pe 9.3 klo 12:00-15:15</td>
