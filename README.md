@@ -63,7 +63,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   <th>Labra/kerta</th>
   <th>ryhmä TTV17S3 / pvm klo</th>
   <th>Sisältö</th>
-  <th>Huomiot</th>
+  <th>Materiaali</th>
   </tr>
 </thead>
 <tbody>
@@ -72,7 +72,7 @@ Ryhmä TTV17S3: keskiviikko klo 8:00-11:15 ja torstai klo 8:00-11:15
   <td>Labra 01</td>
   <td>ke 10.1 klo 8:00-11:15</td>
   <td>Opintojakson aloitus, C# perusteet, ohjelmoinnin kertaus</td>
-  <td>&nbsp;</td>
+  <td><a href="http://ptm.fi/courses/CSharp/content/johdanto/johdanto.html">Johdanto C#-ohjelmointiin</a></td>
   </tr>
   <tr>
   <td>vk 2</td>
