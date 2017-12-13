@@ -53,8 +53,8 @@ Arviointi perustuu pisteisiin osasuorituksista. Lopullinen arvosana määräytyy
 * [Slack](https://jamk-it.slack.com) ja opintojakson kanava [#ttos0200-olio](https://jamk-it.slack.com/messages/ttos0200-olio/)
 
 ## Aikataulu
-Opintojakson tunnit lukujärjestyksen mukaisesti, huomaa että niitä on kaksi kertaa viikossa:<br>
-Ryhmä TTV17S3: keskiviikko 8:00-11:15 ja torstai  8:00-11:15<br>
+Opintojakson tunnit lukujärjestyksen mukaisesti, huomaa että niitä on kaksi kertaa viikossa:<br/>
+Ryhmä TTV17S3: keskiviikko 8:00-11:15 ja torstai  8:00-11:15<br/>
 Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
 <table>
 <thead>
@@ -93,7 +93,7 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <td>ke 17.1 8:00-11:15</td>
   <td>ma 15.1 14:15-17:30</td>
   <td>Johdanto olio-ohjelmointiin. Peruskäsitteet: olio ja luokka</td>
-  <td><a href="http://ptm.fi/courses/CSharp/content/olio/olioluokka.html">olio ja luokka</a><br>
+  <td><a href="http://ptm.fi/courses/CSharp/content/olio/olioluokka.html">olio ja luokka</a><br/>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs">struct</a>, <a href="https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct">struct vs object</a>
   </td>
   </tr>
@@ -110,7 +110,7 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <td>L05</td>
   <td>ke 24.1 8:00-11:15</td>
   <td>ma 22.1 14:15-17:30</td>
-  <td>Peruskäsitteet: staattiset luokat ja metodit<br>
+  <td>Peruskäsitteet: staattiset luokat ja metodit<br/>
          tyyppimuunnokset (kastaaminen)
   </td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/static.html">staattiset metodit</a>, <a href="http://ptm.fi/courses/CSharp/content/olio/kastaus.html">tyyppimuunnokset</a></td>
@@ -132,8 +132,8 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
   <td>ma 29.1 14:15-17:30</td>
   <td>Peruskäsitteet: abstraktiivisuus, koostaminen</td>
   <td><a href="http://ptm.fi/courses/CSharp/content/olio/abstraktit.html">abstraktio</a><br/> 
-         <a href="http://ptm.fi/courses/CSharp/content/olio/koostaminen.html">koostaminen</a><br/>         
-        <a href="http://ptm.fi/courses/CSharp/content/olio/kastaus.html">tyyppimuunnokset eli kastaaminen</a></td>
+         <a href="http://ptm.fi/courses/CSharp/content/olio/koostaminen.html">koostaminen</a>     
+  </td>
   <td>&nbsp;</td>
   </tr>
   <tr>
@@ -228,3 +228,6 @@ Ryhmä TTV17S4: maanantai 14:15-17:30 ja torstai 16:00-18:45
 
 ## Lisätietoa
 Opintojakson virallinen kuvaus: <a href="https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0200&knro=&noclose=%20&lan=f" target="_blank">Olio-ohjelmointi</a>
+
+## Materiaalia
+[Materiaalia ja linkkejä](https://github.com/JAMK-IT/TTOS0200-olio-ohjelmointi/wiki)
